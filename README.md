@@ -1,3 +1,8 @@
+<img width="1440" alt="Screenshot 2023-07-02 at 1 05 20 AM" src="https://github.com/fahim33-eng/chart-visx-library/assets/77661612/3360f5d5-d6f3-4603-a518-2a24db84f546">
+
+<img width="1440" alt="Screenshot 2023-07-02 at 1 06 57 AM" src="https://github.com/fahim33-eng/chart-visx-library/assets/77661612/b3bc159a-fa8e-4e74-a7e9-50f746efc041">
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
