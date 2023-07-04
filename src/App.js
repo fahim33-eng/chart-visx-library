@@ -99,7 +99,7 @@ function App() {
   return (
     <div className="App">
       <MyLineChart chartData={lines} width={1000} height={600} />
-      <MyBarChart chartData = {barChartData} width={600} height={600} />
+      <MyBarChart chartData = {barChartData} width={600} height={600} right={10}/>
       {/* <PieChart chartData = {barChartData} /> */}
     </div>
   );
